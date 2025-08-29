@@ -132,7 +132,7 @@ You may include charts to visualize:
   `(https://github.com/SHUBHAG100520/Competition-/tree/main/webhook-sql-runner)`
 
 - Downloadable JAR:  
-  `https://github.com/your-username/webhook-sql-runner/releases/download/v1.0/webhook-sql-runner-0.0.1-SNAPSHOT.jar`
+  `(https://github.com/SHUBHAG100520/Competition-/blob/main/webhook-sql-runner-0.0.1-SNAPSHOT.jar)`
 
 ---
 
